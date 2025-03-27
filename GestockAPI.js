@@ -1,4 +1,4 @@
-// GestockAPI.js
+
 import axios from 'axios';
 
 class GestockAPI {
